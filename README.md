@@ -16,7 +16,7 @@ Users can:
 
 - **Python 3**
 - **Pandas** for data handling
-- **Transformers (Hugging Face)** for NLP sentiment analysis
+- **TextBlob** for NLP sentiment analysis
 - **Matplotlib / Seaborn** for data visualization
 - **Streamlit** for the interactive web interface
 
@@ -26,4 +26,17 @@ Users can:
 2. Upload the file using the Streamlit interface.
 3. The model will classify each feedback item.
 4. Visual summary and prediction samples will be displayed.
+
+## 📈 Example Output
+
+- Sentiment distribution chart
+- Sample predictions with sentiment labels
+- Color-coded alerts for success/error cases
+
+## ⚡ Key Skills Demonstrated
+
+- Loading and preprocessing CSV files
+- Text classification with TextBlob
+- Visualizing results using seaborn/matplotlib
+- Building interactive apps with Streamlit
 
